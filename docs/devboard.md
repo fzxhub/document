@@ -4,7 +4,6 @@ hide:
 ---
 # 开发板
 
----
 
 ## FPGA开发板
 
@@ -22,7 +21,7 @@ hide:
 - [原理图](devboard/DK-START-GW1N-LV9LQ144C6I5_V2.1_SCH.pdf)
 
 
----
+
 
 ## 单片机开发板
 
@@ -33,6 +32,6 @@ hide:
 - [正点原子探索者F407标准库参考手册](devboard/STM32F4开发指南-库函数版本_V1.2.pdf)
 - [正点原子探索者F407寄存器参考手册](devboard/STM32F4开发指南-寄存器版本_V1.2.pdf)
 
----
+
 
 ## Linux开发板
